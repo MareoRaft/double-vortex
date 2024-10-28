@@ -1,6 +1,6 @@
 # Double Vortex
 
-Double vortex was a programming challenge I did with Andrew Robbins.  We challenged ourselves to build an animation of a double vortex in a day and the result was this [double vortex animation](http://learnnation.org/double-vortex.html).
+Double vortex was a programming challenge I did with Andrew Robbins inspired by a [video about vortex rings](https://www.youtube.com/watch?v=72LWr7BU8Ao) by Physics Girl.  We challenged ourselves to build an animation of a toroidal vortex in a day and the result was this [double vortex animation](http://learnnation.org/double-vortex.html).
 
 
 
