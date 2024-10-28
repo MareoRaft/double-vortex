@@ -1,7 +1,12 @@
+# Double Vortex
+
+Double vortex was a programming challenge I did with Andrew Robbins.  We challenged ourselves to build an animation of a double vortex in a day and the result was this [double vortex animation](http://learnnation.org/double-vortex.html).
+
+
+
+## Deploy Notes
+
 Attempting to deploy a *dockerized* version of this website.
-
-
-## Deploy
 
 	# on the dev machine, build the latest image and push it to dockerhub
 	docker build -t mvlancellotti/double-vortex .
